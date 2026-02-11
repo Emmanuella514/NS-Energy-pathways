@@ -45,3 +45,5 @@ The decision on tidal vs. wind energy in Nova Scotia impacts various stakeholder
 4. Renewable energy deployment data -(statistics 
 Canada)-www150.statcan.gc.ca 
 https://www.nrcan.gc.ca
+5. World bank https://data360.worldbank.org/en/indicator/WB_WDI_EG_ELC_RNEW_ZS
+6. 
