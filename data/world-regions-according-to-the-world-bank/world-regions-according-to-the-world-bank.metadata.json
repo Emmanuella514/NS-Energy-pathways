@@ -1,0 +1,31 @@
+{
+  "chart": {
+    "title": "World regions according to the World Bank",
+    "note": "",
+    "citation": "World Bank",
+    "originalChartUrl": "https://ourworldindata.org/grapher/world-regions-according-to-the-world-bank?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Eritrea",
+      "Czechia",
+      "Burundi"
+    ]
+  },
+  "columns": {
+    "World regions according to WB": {
+      "titleShort": "World regions according to WB",
+      "titleLong": "World regions according to WB",
+      "descriptionShort": "Regions as defined by the World Bank.",
+      "unit": "",
+      "timespan": "2023-2023",
+      "type": "Ordinal",
+      "owidVariableId": 954465,
+      "shortName": "wb_region",
+      "lastUpdated": "2023-01-01",
+      "citationShort": "World Bank – processed by Our World in Data",
+      "citationLong": "World Bank – processed by Our World in Data. “World regions according to WB” [dataset]. World Bank, “World Bank Country and Lending Groups” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/954465.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-03-06",
+  "activeFilters": {}
+}
